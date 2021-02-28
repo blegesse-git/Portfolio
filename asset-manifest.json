@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.75c67b18.chunk.css",
+    "main.js": "/Portfolio/static/js/main.d560e3e4.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.d560e3e4.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.0f1a06fa.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.0f1a06fa.js.map",
+    "static/css/2.a894a7ba.chunk.css": "/Portfolio/static/css/2.a894a7ba.chunk.css",
+    "static/js/2.3140d92f.chunk.js": "/Portfolio/static/js/2.3140d92f.chunk.js",
+    "static/js/2.3140d92f.chunk.js.map": "/Portfolio/static/js/2.3140d92f.chunk.js.map",
+    "static/js/3.fb7b4cc0.chunk.js": "/Portfolio/static/js/3.fb7b4cc0.chunk.js",
+    "static/js/3.fb7b4cc0.chunk.js.map": "/Portfolio/static/js/3.fb7b4cc0.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.a894a7ba.chunk.css.map": "/Portfolio/static/css/2.a894a7ba.chunk.css.map",
+    "static/css/main.75c67b18.chunk.css.map": "/Portfolio/static/css/main.75c67b18.chunk.css.map",
+    "static/js/2.3140d92f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.3140d92f.chunk.js.LICENSE.txt",
+    "static/media/Lit&Wine.53f0cbf0.png": "/Portfolio/static/media/Lit&Wine.53f0cbf0.png",
+    "static/media/PWA.a54e50ab.jpg": "/Portfolio/static/media/PWA.a54e50ab.jpg",
+    "static/media/App.css": "/Portfolio/static/media/background.be1e2f12.jpg",
+    "static/media/bookSearch.7f5f33db.jpg": "/Portfolio/static/media/bookSearch.7f5f33db.jpg",
+    "static/media/dayPlanner.6350c9ba.png": "/Portfolio/static/media/dayPlanner.6350c9ba.png",
+    "static/media/employeeSummary.20aca118.png": "/Portfolio/static/media/employeeSummary.20aca118.png",
+    "static/media/esthete.6a061137.png": "/Portfolio/static/media/esthete.6a061137.png",
+    "static/media/fitnessApp.c7cec193.jpg": "/Portfolio/static/media/fitnessApp.c7cec193.jpg",
+    "static/media/headshot.66dc66ad.jpg": "/Portfolio/static/media/headshot.66dc66ad.jpg",
+    "static/media/noteTaker.753ca872.jpeg": "/Portfolio/static/media/noteTaker.753ca872.jpeg",
+    "static/media/partie.8e3d252f.png": "/Portfolio/static/media/partie.8e3d252f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1a06fa.js",
+    "static/css/2.a894a7ba.chunk.css",
+    "static/js/2.3140d92f.chunk.js",
+    "static/css/main.75c67b18.chunk.css",
+    "static/js/main.d560e3e4.chunk.js"
+  ]
+}
